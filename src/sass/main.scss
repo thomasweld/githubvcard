@@ -1,0 +1,21 @@
+
+$blgr: #609C9C;
+
+.blutext {
+  color: $blgr;
+}
+
+.profile_pic {
+  border-radius: 100%;
+  max-width: 60%;
+}
+
+header {
+  background-color: black;
+  color: white;
+
+    h1 {
+      margin: 0px 0px 1em 0px;
+      padding: 1em;
+    }
+}

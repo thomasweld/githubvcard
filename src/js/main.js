@@ -10,5 +10,5 @@ $.ajaxSetup({
 var url = 'https://api.github.com/users/thomasweld';
 
 $.getJSON(url, function ( res ){
-  console.log(res);
+  console.log(res.name);
 });
